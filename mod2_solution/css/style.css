@@ -43,7 +43,7 @@ div{
     position:relative;
     box-sizing: border-box;
     height:fit-content;
-    border:5px solid black;
+    border:1px solid black;
     float:left;
     margin-left:2%;
     margin-bottom: 20px;
@@ -51,7 +51,8 @@ div{
 h5{
     position: absolute;
     right:0px;
-    border:2px solid black;
+    top:0px;
+    border:1px solid black;
     padding:5px;
     font-size:18.75px;  
 }
