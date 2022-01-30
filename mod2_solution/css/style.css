@@ -50,11 +50,13 @@ div{
 }
 h5{
     position: absolute;
+    width:150px;
     right:0px;
     top:0px;
     border:1px solid black;
     padding:5px;
     font-size:18.75px;  
+    text-align: center;
 }
 #title1{
     background-color: lightskyblue;
